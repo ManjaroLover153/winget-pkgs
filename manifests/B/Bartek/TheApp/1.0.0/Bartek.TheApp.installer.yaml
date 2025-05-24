@@ -1,0 +1,11 @@
+Id: Bartek.TheApp
+Version: 1.0.0
+ManifestType: installer
+ManifestVersion: 1.4.0
+Installers:
+  - Arch: x64
+    InstallerType: msi
+    InstallerUrl: https://downloads.spacedesk.net/downloads/spacedesk_driver_Win_10_64_v2147.msi
+    InstallerSha256: 7E57324A72C38AE70CA9BF1EDCB8F527E3867572653A825926E9090BDF54A178
+    Scope: machine
+    Silent: /quiet
