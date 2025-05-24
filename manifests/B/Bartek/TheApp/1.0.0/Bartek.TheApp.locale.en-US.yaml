@@ -1,0 +1,9 @@
+Id: Bartek.TheApp
+Version: 1.0.0
+ManifestType: locale
+ManifestVersion: 1.4.0
+DefaultLocale: en-US
+Publisher: Bartek
+Name: TheApp
+ShortDescription: A very cool app by Bartek.
+License: MIT
